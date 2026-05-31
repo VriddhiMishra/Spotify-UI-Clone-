@@ -4,7 +4,7 @@ A responsive Spotify-inspired web player interface built using **HTML5** and **C
 
 ## 🚀 Live Demo
 
-🔗 Live Demo: https://VriddhiMishra.github.io/Spotify-UI-Clone/
+🔗 Live Demo: https://vriddhimishra.github.io/Spotify-UI-Clone-/
 
 Explore the responsive Spotify-inspired web player interface built with HTML and CSS.
 
