@@ -19,7 +19,7 @@ A responsive Spotify-inspired web player interface built using **HTML5** and **C
 ![Featured Charts](./Screenshots/featured-charts.png)
 
 ### Browser View
-![Browser View](./Screenshots/browser-view.png)
+![Browser View](./Screenshots/spotify-browser-view.png)
 
 ## ✨ Features
 
