@@ -363,9 +363,6 @@ a{
     line-height: 1.5;
 }
 
-.mobile-menu{
-    display:none;
-}
 
 @media(max-width: 800px){
     .player{
@@ -413,9 +410,4 @@ a{
         width:100%;
     }
 
-    .mobile-menu{
-        display:inline-block;
-        font-size:1.3rem;
-        margin-right:1rem;
-    }
 }
